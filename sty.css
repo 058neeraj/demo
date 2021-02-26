@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-image: url("https://www.frommers.com/system/media_items/attachments/000/865/797/s980/Silver_Falls__Oregon.jpg?1595019575");
+    background-size: cover;
+
+    
+}
+.container{
+    
+    color:white;
+    position:absolute;
+    left: 30%;
+    top:45%
+
+}
+.container h1{
+color: blueviolet;
+font-size: 50px;
+
+margin-bottom: 20px;
+padding:5px;
+
+}
+.box{
+    padding:10px;
+    font-size: 10px;
+
+}
+.btn{
+    padding:10px;
+    size: 10px;
+    color:red;
+    border-radius: 20%;
+    cursor: pointer;
+}
+.box input{
+    width:200%;
+
+    border :none;
+    
+    size:100px;
+    padding :10px
+    
+
+
+}
+.btn:hover{
+    color:grey;
+
+}
+.box i{
+    width:100%;
+    text-align: center;
+    color :red;
+}
